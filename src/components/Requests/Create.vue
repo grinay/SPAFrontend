@@ -1,3 +1,3 @@
 <template>
-  <p>Идите нахуй</p>
+  <p>Test</p>
 </template>
